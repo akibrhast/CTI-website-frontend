@@ -14,9 +14,9 @@ Once you have gone through onboarding, read the [CONTRIBUTING](./CONTRIBUTING.md
   
 ```python
 def python():
-	t
+	print(Hello World)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyMTc1ODMwM119
+eyJoaXN0b3J5IjpbLTIxMzY1NzQzOTFdfQ==
 -->
